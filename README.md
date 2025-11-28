@@ -71,7 +71,7 @@ Planned additions:
 ```
 
 /cad            SolidWorks source files
-/stl            STL exports for printing
+/print          File exports for printing
 /docs           Notes and references
 README.md       Documentation
 
