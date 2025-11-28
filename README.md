@@ -69,3 +69,32 @@ Planned additions:
 ---
 
 ## Repository Structure  
+
+/cad SolidWorks models
+/stl Printable STL files
+/analysis Notes and geometry studies
+/docs Photos, sketches, and iterations
+README.md Documentation
+
+
+---
+
+## Why This Matters  
+Mecanum wheels open up a world of robotics possibilities: strafing, diagonal motion, precision alignment, full holonomic control.  
+They’re powerful tools—but the price barrier stops many students from ever trying them.
+
+By making an open-source version with tolerances and full documentation, this project aims to give every student the chance to experiment with omnidirectional drive systems without breaking the bank.
+
+---
+
+## Future Work  
+- Print testing with different tolerances  
+- Strength testing under load  
+- Improved roller axle mechanism  
+- Modular wheel sizes  
+- Assembly guides  
+- Video demonstrations  
+- Fusion 360 parametric versions  
+- ROS2 kinematic models (maybe)  
+
+---
