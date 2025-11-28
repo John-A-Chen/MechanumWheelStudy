@@ -67,14 +67,15 @@ Planned additions:
 - Better roller pin designs  
 
 ---
-
 ## Repository Structure  
+```
 
-/cad SolidWorks models
-/stl Printable STL files
-/analysis Notes and geometry studies
-/docs Photos, sketches, and iterations
-README.md Documentation
+/cad            SolidWorks source files
+/stl            STL exports for printing
+/docs           Notes and references
+README.md       Documentation
+
+```
 
 
 ---
